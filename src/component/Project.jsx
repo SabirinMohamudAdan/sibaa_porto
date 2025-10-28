@@ -411,6 +411,7 @@ import project1 from '../assets/img.jpg';
 import project2 from '../assets/bg-peaza.jpg';
 import project3 from '../assets/cores.jpg';
 import project4 from '../assets/img9.jpg';
+import project5 from '../assets/vege.jpg';
 
 // Animation variants
 const containerVariants = {
@@ -452,6 +453,13 @@ const projects = [
     description: "Productivity application with real-time updates",
     tags: ["Javasript", " Html", "Tailwindcss"],
     link: "https://sabirinmohamudadan.github.io/Nasta_web/"
+  },
+  {
+    image: project5,
+    title: "Hami MiniMarket",
+    description: "Full-featured online  fruits and vegetables at Hami MiniMarket.",
+    tags: ["Javascript", "Html3", "Css3"],
+    link: "https://hami-mini-market.vercel.app/"
   },
   {
     image: project1,
