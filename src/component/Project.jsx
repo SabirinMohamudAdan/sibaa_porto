@@ -480,7 +480,7 @@ const projects = [
 const Project = () => {
   return (
     <section id="project" className="py-20 bg-gray-800">
-      <div className="container mx-auto px-4">
+      <div className="container mx-auto px-3">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
