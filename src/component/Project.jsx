@@ -412,6 +412,7 @@ import project2 from '../assets/bg-peaza.jpg';
 import project3 from '../assets/cores.jpg';
 import project4 from '../assets/img9.jpg';
 import project5 from '../assets/vege.jpg';
+import project6 from '../assets/evc.jpg';
 
 // Animation variants
 const containerVariants = {
@@ -469,6 +470,13 @@ const projects = [
     link: "#"
   },
  
+  {
+    image: project6,
+    title: "EVc",
+    description: "Full-featured online store with React, Node.js, and MongoDB",
+    tags: ["React", "TailwindCss"],
+    link: "https://evc-plus.vercel.app/"
+  },
   {
     image: project3,
     title: "Restuarant Website ",
